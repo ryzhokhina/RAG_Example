@@ -1,0 +1,14 @@
+llama-index 
+qdrant_client 
+torch 
+transformers
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+lama-index-vector-stores-qdrant
+llama-index-embeddings-fastembed
+
+ragas==0.1.7
+
+langchain==0.1.16
+unstructured
+python-magic-bin
